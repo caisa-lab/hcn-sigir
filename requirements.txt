@@ -1,0 +1,7 @@
+geoopt==0.3.1
+torch==1.8.1
+tqdm==4.60.0
+dgl==0.6.1
+networkx==2.5
+numpy==1.19.1
+scikit_learn==0.24.2
